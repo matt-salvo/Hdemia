@@ -1,1 +1,1 @@
-{"stm32":{"rev":"00.0.1","name":"dwba_stm32_00-0-1.bin"}}
+{"esp32":{"rev":"00.0.1","name":"dwba_esp32c3_00-0-1.bin"}}
